@@ -1,12 +1,12 @@
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: 'Georgia', sans-serif;
+    margin: 3;
+    padding: 5;
 }
 
 .container {
-    width: 80%;
-    margin: 20px auto;
+    width: 95%;
+    margin: 15px auto;
 }
 
 .chapter {
@@ -17,7 +17,7 @@ body {
 .chapter img {
     max-width: 100%;
     height: auto;
-    border: 1px solid #ddd;
+    border: 0.3px solid #ddd;
     border-radius: 4px;
     padding: 5px;
 }

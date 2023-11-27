@@ -1,20 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
     const storyContainer = document.getElementById("story-container");
 
-    // Data for each chapter (image source and text)
+    // Data for each chapter (image source or text)
     const chapters = [
-<<<<<<< HEAD
         { text: "Intro" },
-        { image: "images/parks_DARK.png", text: "NYC Parks" },
-        { image: "images/walkingdistance_DARK.png", text: "Walking Distance" },
-        { image: "images/walkability_DARK.png", text: "Walkability: " },
-        { image: "images/WalkingAndParks_DARK.png", text: "Walkability and Parks" },
-        { image: "images/F1_Diabetes_darkOp2.png", text: "Diabetes" },
-        { image: "images/DiabetesPark_DARK.png", text: "Diabetes and Parks" },
-        { image: "images/F1_ObesePop_darkOp2.png", text: "Obesity" },
-        { image: "images/ObesityPark_DARK.png", text: "Obesity and Parks" },
+        { image: "images/F1_nycparks_map1.png", text: "NYC Parks" },
+        { image: "images/F1_walkingdistance_map2.png", text: "Walking Distance" },
+        { image: "images/F1_walkabilityandparks_map4.png", text: "Walkability and Parks" },
+        { image: "images/DiabetesParks_LIGHT.png", text: "Diabetes and Parks" },
+        { image: "images/ObesityParks_LIGHT.png", text: "Obesity and Parks" },
+        { image: "" },
+        { image: "" },
         { text: "Comparisons, findings, stats, conclusion" },
->>>>>>> 
     ];
 
     // Loop through chapters and create HTML elements dynamically
