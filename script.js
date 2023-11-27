@@ -3,14 +3,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Data for each chapter (image source and text)
     const chapters = [
-        { image: "chapter1.png", text: "Chapter 1: Introduction to the Story" },
-        { image: "chapter2.png", text: "Chapter 2: The Adventure Begins" },
-        { image: "chapter3.png", text: "Chapter 3: Exploring New Territories" },
-        { image: "chapter4.png", text: "Chapter 4: Facing Challenges" },
-        { image: "chapter5.png", text: "Chapter 5: A Twist in the Tale" },
-        { image: "chapter6.png", text: "Chapter 6: The Climax" },
-        { image: "chapter7.png", text: "Chapter 7: Resolving the Conflict" },
-        { image: "chapter8.png", text: "Chapter 8: The Conclusion" },
+        { text: "Intro" },
+        { image: "chapter1.png", text: "NYC Parks" },
+        { image: "chapter2.png", text: "Walking Distance" },
+        { image: "chapter3.png", text: "Walkability: " },
+        { image: "chapter4.png", text: "Walkability and Parks" },
+        { image: "chapter5.png", text: "Diabetes" },
+        { image: "chapter6.png", text: "Diabetes and Parks" },
+        { image: "chapter7.png", text: "Obesity" },
+        { image: "chapter8.png", text: "Obesity and Parks" },
+        { text: "Comparisons, findings, stats, conclusion" },
     ];
 
     // Loop through chapters and create HTML elements dynamically
