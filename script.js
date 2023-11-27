@@ -9,8 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
         { image: "images/F1_walkabilityandparks_map4.png", text: "Walkability and Parks" },
         { image: "images/DiabetesParks_LIGHT.png", text: "Diabetes and Parks" },
         { image: "images/ObesityParks_LIGHT.png", text: "Obesity and Parks" },
-        { image: "" },
-        { image: "" },
         { text: "Comparisons, findings, stats, conclusion" },
     ];
 
