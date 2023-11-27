@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Data for each chapter (image source and text)
     const chapters = [
+<<<<<<< HEAD
         { text: "Intro" },
         { image: "images/parks_DARK.png", text: "NYC Parks" },
         { image: "images/walkingdistance_DARK.png", text: "Walking Distance" },
@@ -13,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { image: "images/F1_ObesePop_darkOp2.png", text: "Obesity" },
         { image: "images/ObesityPark_DARK.png", text: "Obesity and Parks" },
         { text: "Comparisons, findings, stats, conclusion" },
+>>>>>>> 
     ];
 
     // Loop through chapters and create HTML elements dynamically
