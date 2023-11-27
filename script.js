@@ -4,14 +4,14 @@ document.addEventListener("DOMContentLoaded", function () {
     // Data for each chapter (image source and text)
     const chapters = [
         { text: "Intro" },
-        { image: "chapter1.png", text: "NYC Parks" },
-        { image: "chapter2.png", text: "Walking Distance" },
-        { image: "chapter3.png", text: "Walkability: " },
-        { image: "chapter4.png", text: "Walkability and Parks" },
-        { image: "chapter5.png", text: "Diabetes" },
-        { image: "chapter6.png", text: "Diabetes and Parks" },
-        { image: "chapter7.png", text: "Obesity" },
-        { image: "chapter8.png", text: "Obesity and Parks" },
+        { image: "images/parks_DARK.png", text: "NYC Parks" },
+        { image: "images/walkingdistance_DARK.png", text: "Walking Distance" },
+        { image: "images/walkability_DARK.png", text: "Walkability: " },
+        { image: "images/WalkingAndParks_DARK.png", text: "Walkability and Parks" },
+        { image: "images/F1_Diabetes_darkOp2.png", text: "Diabetes" },
+        { image: "images/DiabetesPark_DARK.png", text: "Diabetes and Parks" },
+        { image: "images/F1_ObesePop_darkOp2.png", text: "Obesity" },
+        { image: "images/ObesityPark_DARK.png", text: "Obesity and Parks" },
         { text: "Comparisons, findings, stats, conclusion" },
     ];
 
