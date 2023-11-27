@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.chapter {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.chapter img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.chapter p {
+    margin-top: 10px;
+}
