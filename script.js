@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Data for each chapter (image source or text)
     const chapters = [
-        { image: "white.png", text: "Intro" },
+        { image: "cp1.jpg", text: "Intro" },
         { image: "images/F1_nycparks_map1.png", text: "NYC Parks" },
         { image: "images/F1_walkingdistance_map2.png", text: "Walking Distance" },
         { image: "images/F1_walkabilityandparks_map4.png", text: "Walkability and Parks" },
