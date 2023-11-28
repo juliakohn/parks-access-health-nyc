@@ -5,8 +5,8 @@ body {
 }
 
 .container {
-    width: 95%;
-    margin: 15px auto;
+    width: 99%;
+    margin: 10px auto;
 }
 
 .chapter {
@@ -18,8 +18,8 @@ body {
     max-width: 100%;
     height: auto;
     border: 0.3px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
+    border-radius: 3px;
+    padding: 4px;
 }
 
 .chapter p {
