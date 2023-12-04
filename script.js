@@ -47,7 +47,14 @@ document.addEventListener("DOMContentLoaded", function () {
         { image: "images/white_.png", text: "Crown Heights also had the 2nd highest diabetes rate in the city in 2015 at 16%, and the 6th highest obesity rate at 33%. When comparing this to the 2020 data in the map, not much has changed at all. The area also ranks 14th in the city for physical activity, with 79% of residents reporting that they have had any physical activity within the last 30 days. However, the area has a higher percentage of smokers than average for the city at 17%, as well as a higher percentage of people who consume at least 1 sugary drink per day at 37%. This may lead one to believe that the high diabetes and obesity rates could be explained by the smoking and eating habits of residents."},
         { image: "images/white_.png", text: "While that may be a contributor, it is difficult not to notice the stark lack of easy access to adequately sized parks. With a population of over 100,000 people, parks that are not even 10 acres large are simply not big enough. In comparison, St. Mary’s Park in the South Bronx is roughly 843 acres in size and serves 90,000 people, yet still is not perceived as large enough for the neighborhoods that use it."},
         { image: "images/white_.png", text: "Crown Heights  also neighbors Park Slope, a neighborhood with much easier access to Prospect Park, and a higher average income at $150,320 in 2021. Park Slope's racial and ethnic demographics in 2021 also came out to be 63.4% white, 7.54% Asian, 7.34% black, and 6.03% hispanic. As seen on the maps above, Park Slope, which is northwest of Crown Heights, has lower disease rates as well. While the direct reason for Crown Heights’ high disease rates is hard to decipher, it is clear that there is a major difference in the substance and size in the area’s parks compared to those in whiter, wealthier neighborhoods nearby. Park inequity in Brooklyn could be what is holding Crown Heights back from days of better health."},
+        { image: "images/white_.png" },
+        { image: "images/white_.png" },
+        { image: "images/white_.png" },
+        { image: "images/white_.png" },
+        { image: "images/white_.png" },
         { image: "images/white_.png", text: "Sources" },
+        { image: "images/bib1.png"},
+        { image: "images/bib2.png"}
     ];
 
  const formattedChapters = chapters.map(chapter => {
