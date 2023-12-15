@@ -28,12 +28,10 @@ body {
     padding: 4px;
 }
 
-/* Add this code to your style.css file */
-
 .chapter p {
+    font-size: 20px;
     line-height: 1.5; /* Adjust the value based on your preference */
     margin-bottom: 10px; /* Adjust the bottom margin if needed */
-}
 }
 
 /* Center the chapter content horizontally and vertically */
