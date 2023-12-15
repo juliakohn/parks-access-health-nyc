@@ -32,6 +32,7 @@ body {
     font-size: 20px;
     line-height: 1.5; /* Adjust the value based on your preference */
     margin-bottom: 10px; /* Adjust the bottom margin if needed */
+    margin-padding: 15px;
 }
 
 /* Center the chapter content horizontally and vertically */
